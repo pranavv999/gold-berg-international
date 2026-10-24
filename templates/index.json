@@ -184,6 +184,7 @@
         "banner_ncFmcX": {
           "type": "banner",
           "settings": {
+            "image": "shopify://shop_images/2_92a2f965-815f-48a7-a1ba-03f3d5adc913.webp",
             "collection": "top-wear",
             "url": "",
             "show_overlay": false,
@@ -193,6 +194,7 @@
         "banner_7n4jCW": {
           "type": "banner",
           "settings": {
+            "image": "shopify://shop_images/1_c06b89ca-c171-4035-b532-a48b8b27c168.webp",
             "collection": "bottom-wear",
             "url": "",
             "show_overlay": false,
@@ -202,6 +204,7 @@
         "banner_6BrqYm": {
           "type": "banner",
           "settings": {
+            "image": "shopify://shop_images/4_48abfef1-dc45-471e-ba70-ff80d1ddc132.webp",
             "collection": "all-products-2",
             "url": "",
             "show_overlay": false,
@@ -211,6 +214,7 @@
         "banner_fWfeKW": {
           "type": "banner",
           "settings": {
+            "image": "shopify://shop_images/3_a973e1b3-96a0-455d-be89-96ebfbe9687e.webp",
             "collection": "arcline-co-ord-set",
             "url": "shopify://products/stitchcore-wallet",
             "show_overlay": false,
