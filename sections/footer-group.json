@@ -14,7 +14,7 @@
     "infinite_marquee": {
       "type": "infinite-marquee",
       "settings": {
-        "marquee_text": "BUY 1 GET 10% OFF ON PREPAID | BUY 2 GET 15% OFF ON PREPAID | FREE SHIPPING ON PREPAID",
+        "marquee_text": "SHIPPING GLOBALLY",
         "marquee_link": "",
         "separator_text": "|",
         "text_color": "#ffffff",
@@ -27,7 +27,7 @@
         "padding_vertical_desktop": 11,
         "padding_vertical_mobile": 8,
         "gap_between_items": 40,
-        "speed": 45,
+        "speed": 20,
         "direction": "normal",
         "pause_on_hover": true
       }
@@ -75,9 +75,9 @@
         "newsletter_subtext": "",
         "newsletter_placeholder": "Enter your email address",
         "col1_heading": "Customer Support",
-        "col1_menu": "customer-support",
+        "col1_menu": "",
         "col2_heading": "Information & Policies",
-        "col2_menu": "information-policies",
+        "col2_menu": "",
         "copyright_text": "© 2026 SOBER ANIMAL. All rights reserved.",
         "watermark_text": "Sober",
         "padding_top_desktop": 15,
