@@ -37,8 +37,8 @@
         "button"
       ],
       "settings": {
-        "image": "shopify://shop_images/d-1_7a21b503-49a4-473e-bee6-d1d97f0e315e.webp",
-        "mobile_image": "shopify://shop_images/m-1_9f8edfba-7557-4df1-a18c-2aced91adbf3.webp",
+        "image": "shopify://shop_images/d-1_124013b0-0710-43d2-9dc7-38ad6b34c831.webp",
+        "mobile_image": "shopify://shop_images/m-1_c164914f-a136-4887-b9fc-fac7ad8db5fd.webp",
         "image_overlay_opacity": 40,
         "image_height": "adapt",
         "image_behavior": "none",
@@ -57,8 +57,10 @@
         "title": "",
         "collection": "jackets",
         "product_source": "collection",
+        "products_to_show": 4,
         "button_label": "Discover more",
         "hide_discover_more": false,
+        "show_discount_badge": false,
         "container_radius": 12,
         "show_on_all": false,
         "target_products": []
@@ -70,8 +72,10 @@
         "title": "",
         "collection": "deep-wave-denim-collection",
         "product_source": "collection",
+        "products_to_show": 4,
         "button_label": "Discover more",
         "hide_discover_more": false,
+        "show_discount_badge": false,
         "container_radius": 12,
         "show_on_all": false,
         "target_products": []
@@ -83,8 +87,10 @@
         "title": "",
         "collection": "manga-archives",
         "product_source": "collection",
+        "products_to_show": 4,
         "button_label": "Discover more",
         "hide_discover_more": false,
+        "show_discount_badge": false,
         "container_radius": 12,
         "show_on_all": false,
         "target_products": []
@@ -97,8 +103,10 @@
         "title": "Waffle T-Shirts",
         "collection": "waffle-tees",
         "product_source": "collection",
+        "products_to_show": 4,
         "button_label": "Discover more",
         "hide_discover_more": false,
+        "show_discount_badge": false,
         "container_radius": 12,
         "show_on_all": false,
         "target_products": []
@@ -112,8 +120,10 @@
         "title": "",
         "collection": "the-fan-jersey",
         "product_source": "collection",
+        "products_to_show": 4,
         "button_label": "Discover more",
         "hide_discover_more": false,
+        "show_discount_badge": false,
         "container_radius": 12,
         "show_on_all": false,
         "target_products": []
@@ -126,8 +136,10 @@
         "title": "",
         "collection": "dark-mode-collection",
         "product_source": "collection",
+        "products_to_show": 4,
         "button_label": "Discover more",
         "hide_discover_more": false,
+        "show_discount_badge": false,
         "container_radius": 12,
         "show_on_all": false,
         "target_products": []
@@ -141,8 +153,10 @@
         "title": "",
         "collection": "football-legends-collection",
         "product_source": "collection",
+        "products_to_show": 4,
         "button_label": "Discover more",
         "hide_discover_more": false,
+        "show_discount_badge": false,
         "container_radius": 12,
         "show_on_all": false,
         "target_products": []
@@ -155,8 +169,10 @@
         "title": "",
         "collection": "elemental-beasts-collection",
         "product_source": "collection",
+        "products_to_show": 4,
         "button_label": "Discover more",
         "hide_discover_more": false,
+        "show_discount_badge": false,
         "container_radius": 12,
         "show_on_all": false,
         "target_products": []
@@ -168,7 +184,6 @@
         "banner_ncFmcX": {
           "type": "banner",
           "settings": {
-            "image": "shopify://shop_images/2_80a669fc-623c-4d19-b015-a32a05a53ab7.webp",
             "collection": "top-wear",
             "url": "",
             "show_overlay": false,
@@ -178,7 +193,6 @@
         "banner_7n4jCW": {
           "type": "banner",
           "settings": {
-            "image": "shopify://shop_images/1_45dd224c-7b28-4738-bcd9-2f718c41606a.webp",
             "collection": "bottom-wear",
             "url": "",
             "show_overlay": false,
@@ -188,7 +202,6 @@
         "banner_6BrqYm": {
           "type": "banner",
           "settings": {
-            "image": "shopify://shop_images/4_9bea751a-710e-47eb-b777-7572b25667fd.webp",
             "collection": "all-products-2",
             "url": "",
             "show_overlay": false,
@@ -198,7 +211,6 @@
         "banner_fWfeKW": {
           "type": "banner",
           "settings": {
-            "image": "shopify://shop_images/3_bbb7e712-ce22-4812-9ae4-acdfc3cc0e31.webp",
             "collection": "arcline-co-ord-set",
             "url": "shopify://products/stitchcore-wallet",
             "show_overlay": false,
@@ -225,8 +237,10 @@
         "title": "",
         "collection": "waffle-tees",
         "product_source": "collection",
+        "products_to_show": 4,
         "button_label": "Discover more",
         "hide_discover_more": false,
+        "show_discount_badge": false,
         "container_radius": 12,
         "show_on_all": false,
         "target_products": []
@@ -310,8 +324,6 @@
         "slide_czW8Fj": {
           "type": "slide",
           "settings": {
-            "image": "shopify://shop_images/3_c42c5792-53b0-44b7-b4a7-5a497954a638.webp",
-            "image_mobile": "shopify://shop_images/4_2626dac2-a8e1-4638-93ea-47c55853ceff.webp",
             "link": "shopify://products/petalfall-embroidered-pants",
             "alt": ""
           }
@@ -337,7 +349,6 @@
           "settings": {
             "video": "shopify://files/videos/SaveClip.App_AQNitYRB8t5us1TaS4u2garVBAB6Z-_4dbKriSGgZmNqB-jsfKiC-zzwZIU-TPP_w-sEdT1K4wn7f3pZpcw_y9egPnVXqv5q5J9_p_A.mp4",
             "video_url": "",
-            "poster_image": "shopify://shop_images/thumbnail.webp",
             "link": "",
             "caption": ""
           }
@@ -347,7 +358,6 @@
           "settings": {
             "video": "shopify://files/videos/Z6_V3.mp4",
             "video_url": "",
-            "poster_image": "shopify://shop_images/thumbnail.webp",
             "link": "",
             "caption": ""
           }
@@ -357,7 +367,6 @@
           "settings": {
             "video": "shopify://files/videos/Shadow, black oversized sweatpants.webm",
             "video_url": "",
-            "poster_image": "shopify://shop_images/thumbnail.webp",
             "link": "",
             "caption": ""
           }
@@ -367,7 +376,6 @@
           "settings": {
             "video": "shopify://files/videos/Phantom Black barrel fit.webm",
             "video_url": "",
-            "poster_image": "shopify://shop_images/thumbnail.webp",
             "link": "",
             "caption": ""
           }
@@ -377,7 +385,6 @@
           "settings": {
             "video": "shopify://files/videos/Deep ocean barrel, fit.webm",
             "video_url": "",
-            "poster_image": "shopify://shop_images/thumbnail.webp",
             "link": "",
             "caption": ""
           }
@@ -387,7 +394,6 @@
           "settings": {
             "video": "shopify://files/videos/Bloodline waffle black.webm",
             "video_url": "",
-            "poster_image": "shopify://shop_images/thumbnail.webp",
             "link": "",
             "caption": ""
           }
