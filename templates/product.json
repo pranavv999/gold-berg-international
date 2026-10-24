@@ -23,6 +23,7 @@
         },
         "available_offers_P6yEz7": {
           "type": "available_offers",
+          "disabled": true,
           "settings": {
             "show_on_all": true,
             "target_products": [],
