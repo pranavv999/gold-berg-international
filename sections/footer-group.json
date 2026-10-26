@@ -54,8 +54,8 @@
         "social_youtube": {
           "type": "social_link",
           "settings": {
-            "platform": "linkedin",
-            "url": "https://www.linkedin.com/company/sober-animal/",
+            "platform": "tiktok",
+            "url": "#",
             "title": ""
           }
         }
