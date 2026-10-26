@@ -27,7 +27,7 @@
         "padding_vertical_desktop": 11,
         "padding_vertical_mobile": 8,
         "gap_between_items": 40,
-        "speed": 20,
+        "speed": 45,
         "direction": "normal",
         "pause_on_hover": true
       }
