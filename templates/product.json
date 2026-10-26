@@ -76,7 +76,7 @@
           "type": "accordion_row",
           "settings": {
             "heading": "Shipping",
-            "content": "<p>Shipping & Delivery Details:</p><ul><li>Orders will be dispatched in within 24 - 48 hours</li><li>Standard delivery: 4-7 business days</li><li>Free shipping on prepaid orders</li><li>Cash on delivery available</li></ul>",
+            "content": "<p>Shipping & Delivery Details:</p><ul><li>Orders will be dispatched in within 24 - 48 hours</li><li>Standard delivery: 4-7 business days</li><li>Enjoy free shipping on orders over $200. A $10 shipping fee applies to orders below $200.</li></ul>",
             "page": "",
             "show_description": false,
             "show_on_all": true,
