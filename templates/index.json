@@ -351,6 +351,15 @@
     "instagram_reels_carousel": {
       "type": "instagram-reels-carousel",
       "blocks": {
+        "reel_DTWVC4": {
+          "type": "reel",
+          "settings": {
+            "video": "shopify://files/videos/For manga collection.webm",
+            "video_url": "",
+            "link": "",
+            "caption": ""
+          }
+        },
         "reel_mTgDAF": {
           "type": "reel",
           "settings": {
@@ -407,6 +416,7 @@
         }
       },
       "block_order": [
+        "reel_DTWVC4",
         "reel_mTgDAF",
         "reel_iGQaeK",
         "reel_RAEcjr",
