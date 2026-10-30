@@ -96,6 +96,61 @@
         "target_products": []
       }
     },
+    "featured_collection_grid_banners": {
+      "type": "featured-collection-grid-banners",
+      "blocks": {
+        "banner_ncFmcX": {
+          "type": "banner",
+          "settings": {
+            "image": "shopify://shop_images/2_92a2f965-815f-48a7-a1ba-03f3d5adc913.webp",
+            "collection": "top-wear",
+            "url": "",
+            "show_overlay": false,
+            "title": ""
+          }
+        },
+        "banner_7n4jCW": {
+          "type": "banner",
+          "settings": {
+            "image": "shopify://shop_images/1_c06b89ca-c171-4035-b532-a48b8b27c168.webp",
+            "collection": "bottom-wear",
+            "url": "",
+            "show_overlay": false,
+            "title": ""
+          }
+        },
+        "banner_6BrqYm": {
+          "type": "banner",
+          "settings": {
+            "image": "shopify://shop_images/4_48abfef1-dc45-471e-ba70-ff80d1ddc132.webp",
+            "collection": "all-products-2",
+            "url": "",
+            "show_overlay": false,
+            "title": ""
+          }
+        },
+        "banner_fWfeKW": {
+          "type": "banner",
+          "settings": {
+            "image": "shopify://shop_images/3_a973e1b3-96a0-455d-be89-96ebfbe9687e.webp",
+            "collection": "arcline-co-ord-set",
+            "url": "shopify://products/stitchcore-wallet",
+            "show_overlay": false,
+            "title": ""
+          }
+        }
+      },
+      "block_order": [
+        "banner_ncFmcX",
+        "banner_7n4jCW",
+        "banner_6BrqYm",
+        "banner_fWfeKW"
+      ],
+      "settings": {
+        "title": "",
+        "show_overlay": true
+      }
+    },
     "custom_collection_row_D38Wef": {
       "type": "custom-collection-row",
       "name": "Custom Collection Row",
@@ -176,61 +231,6 @@
         "container_radius": 12,
         "show_on_all": false,
         "target_products": []
-      }
-    },
-    "featured_collection_grid_banners": {
-      "type": "featured-collection-grid-banners",
-      "blocks": {
-        "banner_ncFmcX": {
-          "type": "banner",
-          "settings": {
-            "image": "shopify://shop_images/2_92a2f965-815f-48a7-a1ba-03f3d5adc913.webp",
-            "collection": "top-wear",
-            "url": "",
-            "show_overlay": false,
-            "title": ""
-          }
-        },
-        "banner_7n4jCW": {
-          "type": "banner",
-          "settings": {
-            "image": "shopify://shop_images/1_c06b89ca-c171-4035-b532-a48b8b27c168.webp",
-            "collection": "bottom-wear",
-            "url": "",
-            "show_overlay": false,
-            "title": ""
-          }
-        },
-        "banner_6BrqYm": {
-          "type": "banner",
-          "settings": {
-            "image": "shopify://shop_images/4_48abfef1-dc45-471e-ba70-ff80d1ddc132.webp",
-            "collection": "all-products-2",
-            "url": "",
-            "show_overlay": false,
-            "title": ""
-          }
-        },
-        "banner_fWfeKW": {
-          "type": "banner",
-          "settings": {
-            "image": "shopify://shop_images/3_a973e1b3-96a0-455d-be89-96ebfbe9687e.webp",
-            "collection": "arcline-co-ord-set",
-            "url": "shopify://products/stitchcore-wallet",
-            "show_overlay": false,
-            "title": ""
-          }
-        }
-      },
-      "block_order": [
-        "banner_ncFmcX",
-        "banner_7n4jCW",
-        "banner_6BrqYm",
-        "banner_fWfeKW"
-      ],
-      "settings": {
-        "title": "",
-        "show_overlay": true
       }
     },
     "custom_collection_row_xLT9GA": {
@@ -351,19 +351,19 @@
     "instagram_reels_carousel": {
       "type": "instagram-reels-carousel",
       "blocks": {
-        "reel_4X6BWP": {
+        "reel_mTgDAF": {
           "type": "reel",
           "settings": {
-            "video": "shopify://files/videos/SaveClip.App_AQNitYRB8t5us1TaS4u2garVBAB6Z-_4dbKriSGgZmNqB-jsfKiC-zzwZIU-TPP_w-sEdT1K4wn7f3pZpcw_y9egPnVXqv5q5J9_p_A.mp4",
+            "video": "shopify://files/videos/IMG_3047 (1).mov",
             "video_url": "",
             "link": "",
             "caption": ""
           }
         },
-        "reel_iQ6nbk": {
+        "reel_iGQaeK": {
           "type": "reel",
           "settings": {
-            "video": "shopify://files/videos/Z6_V3.mp4",
+            "video": "shopify://files/videos/IMG_2721 (1).mov",
             "video_url": "",
             "link": "",
             "caption": ""
@@ -407,8 +407,8 @@
         }
       },
       "block_order": [
-        "reel_4X6BWP",
-        "reel_iQ6nbk",
+        "reel_mTgDAF",
+        "reel_iGQaeK",
         "reel_RAEcjr",
         "reel_gjULT7",
         "reel_qTEfCD",
@@ -428,12 +428,12 @@
     "custom_collection_row",
     "custom_collection_row_F4wj48",
     "custom_collection_row_nN6nge",
+    "featured_collection_grid_banners",
     "custom_collection_row_D38Wef",
     "custom_collection_row_mqgCDc",
     "custom_collection_row_HE3JcL",
     "custom_collection_row_EeiVwN",
     "custom_collection_row_a9h3j7",
-    "featured_collection_grid_banners",
     "custom_collection_row_xLT9GA",
     "image_slider_centered",
     "fullwidth_image_slider",
