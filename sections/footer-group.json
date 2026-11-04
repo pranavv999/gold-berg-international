@@ -14,7 +14,7 @@
     "infinite_marquee": {
       "type": "infinite-marquee",
       "settings": {
-        "marquee_text": "SHIPPING GLOBALLY",
+        "marquee_text": "SHIPPING GLOBALLY  |  SHIPPING GLOBALLY  |  SHIPPING GLOBALLY",
         "marquee_link": "",
         "separator_text": "|",
         "text_color": "#ffffff",
@@ -26,8 +26,8 @@
         "text_transform": "uppercase",
         "padding_vertical_desktop": 11,
         "padding_vertical_mobile": 8,
-        "gap_between_items": 40,
-        "speed": 45,
+        "gap_between_items": 26,
+        "speed": 35,
         "direction": "normal",
         "pause_on_hover": true
       }
